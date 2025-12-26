@@ -1,9 +1,5 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/speiikhiev/video-downloader/releases/latest",
-  "changelog": "🎉 Version 2.0.0 - Major Security Update!\n\n✅ NEW FEATURES:\n• Auto-update system with one-click upgrade\n• Clickable version number to check for updates\n• Visual update notification button\n• Download resume capability\n• State persistence (resume after restart)\n• Comprehensive logging system\n• Disk space monitoring\n\n🔒 SECURITY IMPROVEMENTS:\n• URL validation and sanitization\n• Path traversal protection\n• Memory leak fixes\n• Thread safety with locks\n• Rate limiting (prevents IP bans)\n• Input validation on all fields\n\n⚡ PERFORMANCE:\n• Better thread management\n• Graceful shutdown\n• Resource cleanup\n• Configuration management\n\n💾 RELIABILITY:\n• Skip already downloaded videos\n• Better error handling\n• Progress tracking\n• Detailed error messages\n\nUpgrade highly recommended for security and stability!",
-  "required_version": "1.0.0",
-  "release_date": "2024-12-25",
-  "download_size": "50 KB",
-  "install_instructions": "1. Download the new version\n2. Close current application\n3. Replace old file with new one\n4. Run the application"
+  "version": "1.0.0",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/latest",
+  "changelog": "Current stable version"
 }
