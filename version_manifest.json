@@ -1,7 +1,28 @@
 {
   "version": "2.0.1",
-  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/V2.0.1/SpeiiKhiev_Downloader_v2.0.1.zip",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/SpeiiKhiev_Downloader_v2.0.1.zip",
   "file_size": "60 MB",
-  "changelog": "...",
-  "modules": { ... }
+  "changelog": "What's New in v2.0.1\n\n- Blue Accent Theme - Modern GitHub-inspired design\n- Custom Logo Support - Professional branding\n- Multi-Select Videos - Shift+Click for range, Ctrl+Click for toggle\n- Keyboard Shortcuts - Ctrl+A (Select All), Ctrl+I (Invert)\n- Expanded Log Section - Better visibility\n- Button Borders with Glow Effects\n- Visual Helper Tooltips",
+  "modules": {
+    "core_module": {
+      "version": "2.0.1",
+      "hash": "placeholder",
+      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/core_module.py"
+    },
+    "downloader_module": {
+      "version": "2.0.1",
+      "hash": "placeholder",
+      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/downloader_module.py"
+    },
+    "ui_module": {
+      "version": "2.0.1",
+      "hash": "placeholder",
+      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/ui_module.py"
+    },
+    "updater_module": {
+      "version": "2.0.1",
+      "hash": "placeholder",
+      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/updater_module.py"
+    }
+  }
 }
