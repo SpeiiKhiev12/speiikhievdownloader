@@ -1,34 +1,7 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.0/SpeiiKhiev_Downloader_v2.0.zip",
-  "file_size": "60.5 MB",
-  "changelog": "🎉 Version 2.0.0 - Modular Architecture\n\n✨ New Features:\n• Modular architecture for efficient updates\n• Updated yt-dlp for TikTok support\n• Improved download stability\n• Better error handling\n\n🐛 Bug Fixes:\n• Fixed TikTok download issues\n• Improved Instagram compatibility\n• Enhanced security\n\n📦 Technical:\n• Separated modules (Core, Downloader, UI, Updater)\n• Selective module updates support\n• Reduced package size",
-  "app_version": "2.0.0",
-  "launcher_version": "2.0.0",
-  "modules": {
-    "core_module": {
-      "version": "2.0.0",
-      "size": "0.01 MB",
-      "hash": "abc123...",
-      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.0/core_module.py"
-    },
-    "downloader_module": {
-      "version": "2.0.0",
-      "size": "0.03 MB",
-      "hash": "def456...",
-      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.0/downloader_module.py"
-    },
-    "ui_module": {
-      "version": "2.0.0",
-      "size": "0.05 MB",
-      "hash": "ghi789...",
-      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.0/ui_module.py"
-    },
-    "updater_module": {
-      "version": "2.0.0",
-      "size": "0.02 MB",
-      "hash": "jkl012...",
-      "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.0/updater_module.py"
-    }
-  }
+  "version": "2.0.1",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/V2.0.1/SpeiiKhiev_Downloader_v2.0.1.zip",
+  "file_size": "60 MB",
+  "changelog": "...",
+  "modules": { ... }
 }
