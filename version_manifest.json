@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/SpeiiKhiev_Downloader_v2.0.1.zip",
-  "file_size": "60 MB",
-  "changelog": "What's New in v2.0.1\n\n- Blue Accent Theme - Modern GitHub-inspired design\n- Custom Logo Support - Professional branding\n- Multi-Select Videos - Shift+Click for range, Ctrl+Click for toggle\n- Keyboard Shortcuts - Ctrl+A (Select All), Ctrl+I (Invert)\n- Expanded Log Section - Better visibility\n- Button Borders with Glow Effects\n- Visual Helper Tooltips",
+  "version": "2.0.2",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.2/SpeiiKhiev_Downloader_v2.0.2.zip",
+  "file_size": "45 MB",
+  "changelog": "What's New in v2.0.2\n\n⚙️ Settings Dialog - Configure quality, format, concurrent downloads\n⏱️ Download Timer - Shows elapsed time during downloads\n⏸️ Pause/Resume - Pause and resume downloads anytime\n📂 Open Folder - Quick access to download location\n⚡ Concurrent Downloads - Download up to 10 videos simultaneously\n🎯 TikTok Multi-Method Downloader - Reliable TikTok downloads!\n🎨 Professional UI - Clean button layout\n\nPlatform Support:\n✅ YouTube - Excellent\n✅ Instagram - Excellent\n✅ Facebook - Good\n✅ TikTok - NOW WORKING!",
   "modules": {
     "core_module": {
       "version": "2.0.1",
