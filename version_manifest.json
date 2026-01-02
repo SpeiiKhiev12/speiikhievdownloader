@@ -1,26 +1,26 @@
 {
-  "version": "2.0.3",
-  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.3/SKdownloader_v2.0.3_x64.rar",
+  "version": "2.0.4",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.4/SKdownloader_v2.0.4_x64.rar",
   "file_size": "45 MB",
   "changelog": "What's New in v2.0.2\n\n⚙️ Settings Dialog - Configure quality, format, concurrent downloads\n⏱️ Download Timer - Shows elapsed time during downloads\n⏸️ Pause/Resume - Pause and resume downloads anytime\n📂 Open Folder - Quick access to download location\n⚡ Concurrent Downloads - Download up to 10 videos simultaneously\n🎯 TikTok Multi-Method Downloader - Reliable TikTok downloads!\n🎨 Professional UI - Clean button layout\n\nPlatform Support:\n✅ YouTube - Excellent\n✅ Instagram - Excellent\n✅ Facebook - Good\n✅ TikTok - NOW WORKING!",
   "modules": {
     "core_module": {
-      "version": "2.0.1",
+      "version": "2.0.4",
       "hash": "placeholder",
       "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/core_module.py"
     },
     "downloader_module": {
-      "version": "2.0.1",
+      "version": "2.0.4",
       "hash": "placeholder",
       "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/downloader_module.py"
     },
     "ui_module": {
-      "version": "2.0.1",
+      "version": "2.0.4",
       "hash": "placeholder",
       "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/ui_module.py"
     },
     "updater_module": {
-      "version": "2.0.1",
+      "version": "2.0.4",
       "hash": "placeholder",
       "url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/v2.0.1/updater_module.py"
     }
