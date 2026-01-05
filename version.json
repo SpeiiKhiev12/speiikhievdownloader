@@ -1,9 +1,10 @@
 {
-  "version": "1.0.3",
-  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/download/V1.0.3/SpeiiKhiev_Video_Downloader.exe",
-  "file_size": "44.3 MB",
-  "changelog": "🎉 What's New in v1.0.3:\n\n✨ New Features:\n• One-click auto-update system\n• Download progress with real-time status\n• Automatic backup before update\n• Auto-restart after installation\n\n🐛 Bug Fixes:\n• Fixed Instagram scraping rate limits\n• Improved download stability\n• Better error handling\n\n⚡ Improvements:\n• Faster video loading\n• Better UI responsiveness\n• Reduced memory usage"
+  "version": "2.0.4",
+  "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/latest",
+  "changelog": "✨ v2.0.4 - Professional Update\n\n• Beautiful splash screen with logo\n• Instance limiter (max 4 windows)\n• Username-based folder organization\n• Concurrent downloads (2-10 videos)\n• Connection monitoring with auto-pause\n• Pause/Resume downloads\n• Stop fetch button\n• Privacy improvements\n• Bug fixes and improvements",
+  "file_size": "45 MB"
 }
+
 
 
 
