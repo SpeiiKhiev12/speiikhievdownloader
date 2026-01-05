@@ -1,9 +1,10 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "download_url": "https://github.com/SpeiiKhiev12/speiikhievdownloader/releases/latest",
   "changelog": "✨ v2.0.4 - Professional Update\n\n• Beautiful splash screen with logo\n• Instance limiter (max 4 windows)\n• Username-based folder organization\n• Concurrent downloads (2-10 videos)\n• Connection monitoring with auto-pause\n• Pause/Resume downloads\n• Stop fetch button\n• Privacy improvements\n• Bug fixes and improvements",
   "file_size": "45 MB"
 }
+
 
 
 
